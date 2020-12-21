@@ -1,4 +1,4 @@
-Linux kernel
+Nylon: A Linux Distrubution 
 ============
 
 There are several guides for kernel developers and users. These guides can
